@@ -1,0 +1,13 @@
+{
+"companyName": "danica & justin",
+"productName": "anivus",
+"dataUrl": "a2-webgl-build.data.unityweb",
+"wasmCodeUrl": "a2-webgl-build.wasm.code.unityweb",
+"wasmFrameworkUrl": "a2-webgl-build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
